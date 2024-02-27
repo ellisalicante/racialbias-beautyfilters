@@ -2,4 +2,4 @@
 
 Piera Riccio, Julien Colin, Shirley Ogolla, Nuria Oliver
 
-To reproduce our results, please refer to the images in this [folder]([url](https://drive.google.com/file/d/12P1da5ze_FuQM-BYvIKb2DJbgBrdxD6V/view?usp=sharing)https://drive.google.com/file/d/12P1da5ze_FuQM-BYvIKb2DJbgBrdxD6V/view?usp=sharing).
+To reproduce our results, please refer to the images in this [folder](https://drive.google.com/file/d/12P1da5ze_FuQM-BYvIKb2DJbgBrdxD6V/view?usp=sharing).
